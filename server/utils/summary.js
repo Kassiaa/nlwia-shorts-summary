@@ -1,0 +1,1 @@
+ export const sumarryexample = "O javascript é uma linguagem de programação voltada para desenvolvimento web"

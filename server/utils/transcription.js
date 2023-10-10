@@ -1,0 +1,1 @@
+ export const transcriptionExample = 'O JavaScript é uma linguagem de programaçaõ voltada para o desenvolvimento web, criada originalmente para funcionar do lado do usuario, ou seja, nos navegadores. Junto do HTML e CSS, é uma das principais tecnologias da web permitindo a criaçaõ de paginas interativas com elemnetos dinâmicos.  '
